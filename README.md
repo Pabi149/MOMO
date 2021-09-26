@@ -14,6 +14,9 @@ The changes that were made are as follows:
 Deployment link:"https://github.com/Pabi149/MOMO.git"
 
 ![_C__Cooding-Bootcamp_MOMO_index html (1)](https://user-images.githubusercontent.com/90426266/134827586-99eabb60-0c2f-4ef2-b367-2914081ec256.png)
+<<<<<<< HEAD
 
 Credits
 https://github.com/coding-boot-camp/urban-octo-telegram.git
+=======
+>>>>>>> ae32e658dad08515df30a0cadf905d883f2c7bd1
