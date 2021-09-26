@@ -12,4 +12,4 @@ The changes that were made are as follows:
 
 Deployment link:"https://github.com/Pabi149/MOMO.git"
 
-![Website's screenshot](C:\Cooding-Bootcamp\MOMO\assets\images\_C__Cooding-Bootcamp_MOMO_index.html.png)
+![Website's screenshot](C:\Cooding-Bootcamp\MOMO\assets\images\_C__Cooding-Bootcamp_MOMO_index.html (1).png)
