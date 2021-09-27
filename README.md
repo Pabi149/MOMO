@@ -20,7 +20,7 @@ The changes that were made are as follows:
 
 -Comments in between lines were added to avoid confusion.
 
-Deployment link:"https://github.com/Pabi149/MOMO.git"
+Deployment link:"https://pabi149.github.io/MOMO/"
 
 ![_C__Cooding-Bootcamp_MOMO_index html (1)](https://user-images.githubusercontent.com/90426266/134827586-99eabb60-0c2f-4ef2-b367-2914081ec256.png)
 <<<<<<< HEAD
